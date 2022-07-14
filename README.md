@@ -12,5 +12,11 @@ The courses I am taking there include:
 * sql
 * geospatial analysis
 
+
+## Files
 The codes included in this repository are solutions to exercises and problems given throuhout the courses.
-As such, the bulk of codes that are shown here are written in python and sql.
+As such, the bulk of codes that are shown here are written in python(.py files) and sql.
+
+To help me grasp/ remember certain concepts, I note down some important points and explantions in **notes**
+
+**test.py** files help me test examples before I write main code

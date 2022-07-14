@@ -13,3 +13,10 @@ print(bool(1))
 print(bool(0))
 print(bool("abc"))
 print(bool("")) # take care to not input a space in the quotes
+
+"""
+converting a bool with 'True" to int results to 1
+converting a bool with "False" to int results to 0
+"""
+x = bool(1)
+print(int(x))
