@@ -39,3 +39,10 @@ len(planets) # length function returns the length of the list
 planets.index("Earth") # returns the index of earth in the list
 "pluto" in planets # returns 'True' if pluto is in the list
 
+
+"""
+Tuples are similar to list but
+1 - are created with parentheses
+2- Cannot be modified
+"""
+t = (1, 2, 3)
