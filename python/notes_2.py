@@ -46,3 +46,18 @@ Tuples are similar to list but
 2- Cannot be modified
 """
 t = (1, 2, 3)
+
+
+"""
+list comprehension
+offers a shorter syntax for creating or appending lists
+"""
+# traditional way of writing
+squares = []
+for n in range(10):
+    squares.append(n**2)
+print(squares)
+
+# using a list comprehension
+squares = [n**2 for n in range(10)]
+print(squares)
