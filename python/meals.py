@@ -5,9 +5,9 @@ def menu_is_boring(meals):
     same meal has ever been served two days in a row, and False otherwise.
     """
     # iterate over the indexes of the list
-    for i in range(len(meals)-1):
+    for n in range(len(meals) - 1):
         # if a value is the same as the value after it
-        if meals[i] == meals[i + 1]:
+        if meals[n] == meals[n + 1]:
             # return 'True
             return True
     return False
