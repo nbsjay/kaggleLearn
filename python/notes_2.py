@@ -61,3 +61,10 @@ print(squares)
 # using a list comprehension
 squares = [n**2 for n in range(10)]
 print(squares)
+
+"""
+because lists are indexed from 0, when getting the last item in a list you
+have to subtract one from the total number of items in the list 
+"""
+names = ["Kelly", "Nelly", "Jimmy", "Lenny"]
+print(names[4] - 1)
