@@ -19,4 +19,4 @@ As such, the bulk of codes that are shown here are written in python(.py files) 
 
 To help me grasp/ remember certain concepts, I note down some important points and explantions in **notes**
 
-**test.py** files help me test examples before I write main code
+I use **test.py** files to test code before I write them in a main file
