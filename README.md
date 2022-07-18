@@ -3,14 +3,13 @@
 As part of my data analytics study journey, I am taking short courses on Kaggle which are centered around data analysis and data science. 
 
 ## Courses
-The courses I am taking there include:
+The courses I am taking include:
 * intro to programming
 * python
 * pandas
 * data cleaning
 * data visualisation
 * sql
-* geospatial analysis
 
 
 ## Files
