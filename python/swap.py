@@ -11,7 +11,7 @@ def swap(r):
     >>> ["d", "b", "c", "a"]
     """
     
-    r_temp = r[0]
+    r_temp = r[0] # create a temporarry list
     r[0] = r[-1]
     r[-1] = r_temp
     return r
