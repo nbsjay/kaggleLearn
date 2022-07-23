@@ -19,7 +19,7 @@ print(
     least_difference(5, 6, 7), # Python allows trailing commas in argument lists.
 )
 
-help(least_difference)
+# help(least_difference)
 
 def test(x):
     """
